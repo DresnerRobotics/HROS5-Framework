@@ -1,8 +1,7 @@
 /*
 * main.cpp
 *
-*  Created on: 2011. 1. 4.
-*      Author: robotis
+* Author: Andrew Dresner, Farrel Robotics
 */
 
 #include <stdio.h>
